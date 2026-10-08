@@ -1,0 +1,18 @@
+name: NN
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pre-commit
+  - jupyterlab
+  - ipykernel
+  - numpy
+  - pandas
+  - matplotlib
+  - pytorch
+  - tensorboard
+  - scikit-learn
+  - tqdm
+  - seaborn
